@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+div {
+  margin-top: 1rem;
+}
+
+#c {
+  border: 0.5px solid black;
+  width: 60px;
+  height: 20px;
+}
